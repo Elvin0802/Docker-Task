@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\diconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\diconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|c:\\users\\hp\\desktop\\docker-task\\backend\\authproject.api\\authproject.api\\migrations\\20250722214508_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90414B07-0223-44C8-81B9-C6CF19B2BB22}|AuthProject.API\\AuthProject.API.csproj|solutionrelative:authproject.api\\migrations\\20250722214508_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "AuthProject.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Program.cs",
+              "RelativeToolTip": "AuthProject.API\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:59:50.279Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthProject.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\appsettings.json",
+              "RelativeToolTip": "AuthProject.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T21:00:08.878Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthProject.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthProject.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T21:00:07.527Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Dockerfile",
+              "RelativeDocumentMoniker": "AuthProject.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Dockerfile",
+              "RelativeToolTip": "AuthProject.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T20:59:52.211Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthProject.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Models\\User.cs",
+              "RelativeToolTip": "AuthProject.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:03:42.801Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthProject.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthProject.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:03:03.119Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthProject.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AuthProject.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:50:11.737Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthProject.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthProject.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:35:14.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AuthProject.API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Services\\UserService.cs",
+              "RelativeToolTip": "AuthProject.API\\Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:50:47.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthProject.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "AuthProject.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:17:14.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250722214508_Mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Migrations\\20250722214508_Mig_1.cs",
+              "RelativeDocumentMoniker": "AuthProject.API\\Migrations\\20250722214508_Mig_1.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\Migrations\\20250722214508_Mig_1.cs",
+              "RelativeToolTip": "AuthProject.API\\Migrations\\20250722214508_Mig_1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:45:08.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DIConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\DIConfig.cs",
+              "RelativeDocumentMoniker": "AuthProject.API\\DIConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\docker-task\\backend\\AuthProject.API\\AuthProject.API\\DIConfig.cs",
+              "RelativeToolTip": "AuthProject.API\\DIConfig.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:24:27.671Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

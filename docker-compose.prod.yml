@@ -1,0 +1,29 @@
+services:
+  ui:
+    image: lvn0802/frontend:latest
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+
+  api:
+    image: lvn0802/backend:latest
+    ports:
+      - "5000:5000"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=SimpleAuthAppDb;User=sa;Password=Db@Password!123;TrustServerCertificate=True;
+    depends_on:
+      - db
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - "80:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Db@Password!123
+    volumes:
+      - sqldata:/var/opt/mssql
+
+volumes:
+  sqldata:

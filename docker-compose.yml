@@ -1,0 +1,33 @@
+services:
+  ui:
+    build:
+      context: ./frontend/simple-auth-app
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+
+  api:
+    build:
+      context: ./backend/AuthProject.API/AuthProject.API
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=SimpleAuthAppDb;User=sa;Password=Db@Password!123;TrustServerCertificate=True;
+    depends_on:
+      - db
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - "80:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Db@Password!123
+    volumes:
+      - sqldata:/var/opt/mssql
+
+volumes:
+  sqldata:
