@@ -1,0 +1,7 @@
+
+Salam Muellim.
+
+Docker compose yml , local ucundur.
+compose prod yml ise docker hub dan pull edir.
+
+produ run ede bilmesez, produn icindekini adi yml e kocurub , produ silib, run ede bilersiz ( docker compose up -d )
